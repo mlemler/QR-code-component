@@ -4,6 +4,11 @@ body {
 
 .qr-container {
     background-color: hsl(0, 0%, 100%);
+    width: 320px;
+}
+
+.qr-code-image {
+    width: 100%;
 }
 
 .attribution { font-size: 11px; text-align: center; }
